@@ -1,0 +1,15 @@
+E:\repos\linear-algebra\bin\Release\net8.0\LinearAlgebra.exe
+E:\repos\linear-algebra\bin\Release\net8.0\LinearAlgebra.deps.json
+E:\repos\linear-algebra\bin\Release\net8.0\LinearAlgebra.runtimeconfig.json
+E:\repos\linear-algebra\bin\Release\net8.0\LinearAlgebra.dll
+E:\repos\linear-algebra\bin\Release\net8.0\LinearAlgebra.pdb
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.AssemblyInfoInputs.cache
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.AssemblyInfo.cs
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.csproj.CoreCompileInputs.cache
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.sourcelink.json
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.dll
+E:\repos\linear-algebra\obj\Release\net8.0\refint\LinearAlgebra.dll
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.pdb
+E:\repos\linear-algebra\obj\Release\net8.0\LinearAlgebra.genruntimeconfig.cache
+E:\repos\linear-algebra\obj\Release\net8.0\ref\LinearAlgebra.dll
