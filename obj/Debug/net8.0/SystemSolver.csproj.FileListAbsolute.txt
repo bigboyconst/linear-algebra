@@ -1,0 +1,14 @@
+E:\Cool programming things\SystemSolver\bin\Debug\net8.0\SystemSolver.exe
+E:\Cool programming things\SystemSolver\bin\Debug\net8.0\SystemSolver.deps.json
+E:\Cool programming things\SystemSolver\bin\Debug\net8.0\SystemSolver.runtimeconfig.json
+E:\Cool programming things\SystemSolver\bin\Debug\net8.0\SystemSolver.dll
+E:\Cool programming things\SystemSolver\bin\Debug\net8.0\SystemSolver.pdb
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.AssemblyInfoInputs.cache
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.AssemblyInfo.cs
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.csproj.CoreCompileInputs.cache
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.dll
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\refint\SystemSolver.dll
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.pdb
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\SystemSolver.genruntimeconfig.cache
+E:\Cool programming things\SystemSolver\obj\Debug\net8.0\ref\SystemSolver.dll

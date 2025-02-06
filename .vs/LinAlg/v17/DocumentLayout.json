@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\linear-algebra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:solver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:spline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\enumerableutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:enumerableutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|e:\\repos\\linear-algebra\\matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36984B97-5DB5-47BC-A96A-BBC72F3D4C2D}|SystemSolver.csproj|solutionrelative:matrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Spline.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Spline.cs",
+              "RelativeDocumentMoniker": "Spline.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Spline.cs",
+              "RelativeToolTip": "Spline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:50:10.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Solver.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Solver.cs",
+              "RelativeDocumentMoniker": "Solver.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Solver.cs",
+              "RelativeToolTip": "Solver.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T11:59:37.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Vector.cs",
+              "RelativeDocumentMoniker": "Vector.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Vector.cs",
+              "RelativeToolTip": "Vector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:22:57.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Matrix.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Matrix.cs",
+              "RelativeDocumentMoniker": "Matrix.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Matrix.cs",
+              "RelativeToolTip": "Matrix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:19:32.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnumerableUtils.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\EnumerableUtils.cs",
+              "RelativeDocumentMoniker": "EnumerableUtils.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\EnumerableUtils.cs",
+              "RelativeToolTip": "EnumerableUtils.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:23:59.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Exceptions.cs",
+              "RelativeDocumentMoniker": "Exceptions.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Exceptions.cs",
+              "RelativeToolTip": "Exceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:39:43.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\linear-algebra\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\repos\\linear-algebra\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T22:19:07.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
