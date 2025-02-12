@@ -48,8 +48,8 @@ namespace LinearAlgebra
         /// </summary>
         public static double Dot(Vector a, Vector b)
         {
-            if (!HaveSameDimensions(a, b))
-                throw new DifferentDimensionException();
+            //if (!HaveSameDimensions(a, b))
+            //    throw new DifferentDimensionException();
             double s = 0;
             for (int i = 0; i < a.Count; i++)
                 s += a[i] * b[i];
@@ -134,6 +134,11 @@ namespace LinearAlgebra
                 orthonormalBasis.Add(u_i.Normalized);
             }
             return orthonormalBasis;
+        }
+
+        public override string ToString()
+        {
+            return base.ToString();
         }
     }
 }

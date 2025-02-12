@@ -1,4 +1,5 @@
-﻿namespace LinearAlgebra
+﻿using System;
+namespace LinearAlgebra
 {
     /// <summary>
     /// Exception that is thrown when an invalid value is passed as the dimension of a matrix and/or vector

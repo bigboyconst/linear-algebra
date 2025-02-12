@@ -7,9 +7,9 @@ namespace LinearAlgebra
     /// </summary>
     public class Matrix : IEquatable<Matrix>
     {
-        static int ValidateDimension(int candidate) => 
-                                                    candidate < 0 
-                                                    ? throw new InvalidDimensionException() 
+        static int ValidateDimension(int candidate) =>
+                                                    candidate < 0
+                                                    ? throw new InvalidDimensionException()
                                                     : candidate;
         protected const double _eps = 1e-12;
         double[,] mat;
@@ -75,7 +75,7 @@ namespace LinearAlgebra
                 return false;
             for (int i = 0; i < m1.Rows; i++)
                 for (int j = 0; j < m1.Columns; j++)
-                    if (Abs(m1[i,j] - m2[i,j]) >= _eps)
+                    if (Abs(m1[i, j] - m2[i, j]) >= _eps)
                         return false;
             return true;
         }
@@ -87,7 +87,7 @@ namespace LinearAlgebra
             Matrix sum = new(m1);
             for (int i = 0; i < m1.Rows; i++)
                 for (int j = 0; j < m1.Columns; j++)
-                    sum[i,j] += m2[i,j];
+                    sum[i, j] += m2[i, j];
             return sum;
         }
         // multiplies by a scalar
@@ -217,7 +217,7 @@ namespace LinearAlgebra
         public static Matrix operator ^(Matrix m1, int p) => Pow(m1, p);
         public static bool operator ==(Matrix m1, Matrix m2) => m1.Equals(m2);
         public static bool operator !=(Matrix m1, Matrix m2) => m1.GetHashCode() != m2.GetHashCode();
-        
+
         #endregion
 
         public override bool Equals(object? obj)
@@ -629,7 +629,7 @@ namespace LinearAlgebra
         {
             Matrix rref = RREF();
             List<(int row, int col)> pivotPositions = new();
-            for (int i = 0; i < Rows; i++) 
+            for (int i = 0; i < Rows; i++)
             {
                 for (int j = 0; j < Columns; j++)
                 {
@@ -790,7 +790,7 @@ namespace LinearAlgebra
         {
             if (!IsSymmetric())
                 throw new ArgumentException("Matrix must be symmetric to apply this algorithm.");
-            
+
             const double tolerance = 1e-12;
 
             var QR = QRDecomposition();
